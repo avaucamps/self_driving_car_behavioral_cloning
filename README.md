@@ -34,6 +34,6 @@ The network used is the following:
 
 For a turn during the simulation with autonomous mode:
 
-|<img src="test_images/self_driving_car_1.png" width="320" height="160">|<img src="test_images/self_driving_car_2.png" width="320" height="160">|
-|<img src="test_images/self_driving_car_3.png" width="320" height="160">|<img src="test_images/self_driving_car_4.png" width="320" height="160">|
-|<img src="test_images/self_driving_car_5.png" width="320" height="160">|<img src="test_images/self_driving_car_6.png" width="320" height="160">|
+<img src="test_images/self_driving_car_1.png" width="320" height="160"><img src="test_images/self_driving_car_2.png" width="320" height="160">
+<img src="test_images/self_driving_car_3.png" width="320" height="160"><img src="test_images/self_driving_car_4.png" width="320" height="160">
+<img src="test_images/self_driving_car_5.png" width="320" height="160"><img src="test_images/self_driving_car_6.png" width="320" height="160">
